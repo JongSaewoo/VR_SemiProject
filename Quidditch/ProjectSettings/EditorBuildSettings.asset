@@ -8,15 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/OVRCameraRigScene.unity
     guid: f3f272fcb333e5748b74702e7add049b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/OVRPlayerControllerScene.unity
     guid: cf88b5dd0b6dc5c4a8a5c126d6336ac0
   - enabled: 0
     path: Assets/Scenes/OVRLocalAvatarScene.unity
     guid: dd224049b55ef9a46a04aa3a3ccdf3ac
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/OculusControllersAndCustomHands.unity
     guid: 59b150f274dec754c93ad9890428cc24
+  - enabled: 0
+    path: Assets/Scenes/zombie2Test.unity
+    guid: f837deaaa94710747a7f838c83e393cb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7aa18aa4b632ba14f89b752c8d038354,
       type: 2}
